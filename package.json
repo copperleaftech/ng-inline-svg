@@ -6,6 +6,9 @@
   "bugs": {
     "url": "https://github.com/siandreev/ng-inline-svg/issues"
   },
+  "publishConfig": {
+    "registry": "https://copperleaf.jfrog.io/copperleaf/api/npm/npm/"
+  },
   "files": [
     "lib_commonjs/*",
     "lib_esmodule/*",
